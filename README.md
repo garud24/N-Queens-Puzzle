@@ -1,6 +1,6 @@
 # N-Queens-Puzzle
 
-#Program Structure
+Program Structure
 
 Libraries Imported:
 Random Sys
