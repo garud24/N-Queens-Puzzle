@@ -3,7 +3,10 @@
 Program Structure
 
 Libraries Imported:
-Random Sys
+
+Random 
+
+Sys
 
 Functions Used:
 
